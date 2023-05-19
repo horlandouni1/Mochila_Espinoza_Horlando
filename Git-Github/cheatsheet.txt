@@ -1,0 +1,31 @@
+Estos son uno de los comando mas importantes de git:
+
+git init: Inicializa un nuevo repositorio de Git en un directorio local.
+
+git clone <url>: Clona un repositorio remoto existente en tu máquina local.
+
+git add <archivo>: Agrega un archivo específico al área de preparación (staging area) para ser incluido en el próximo commit.
+
+git add . o git add --all: Agrega todos los archivos modificados o nuevos al área de preparación.
+
+git commit -m "Mensaje del commit": Realiza un commit con los cambios agregados al área de preparación.
+
+git status: Muestra el estado actual del repositorio, incluyendo los archivos modificados, los archivos en el área de preparación y otros detalles relevantes.
+
+git push: Envía los commits locales al repositorio remoto.
+
+git pull: Obtiene los últimos cambios del repositorio remoto y los fusiona con tu rama local.
+
+git branch: Muestra una lista de las ramas locales en el repositorio.
+
+git checkout <rama>: Cambia a una rama específica en el repositorio.
+
+git merge <rama>: Fusiona una rama específica con la rama actual.
+
+git log: Muestra un historial de commits en el repositorio.
+
+git remote add <nombre> <url>: Asocia un repositorio remoto a un nombre específico.
+
+git remote -v: Muestra los repositorios remotos asociados al repositorio local.
+
+git diff: Muestra las diferencias entre los cambios sin preparar y el último commit.
