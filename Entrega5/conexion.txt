@@ -1,0 +1,6 @@
+me conecte usando el protocolo telnet :
+primero entre a la configuracion de la maquina virtual ,en la parte de red y cambie la conexion a adaptador puente.
+luego cree un usuario root para que no haga falta poner sudo, luego instale el paquete de telnet
+verifico que el servicio de telnet este en ejecucion, 
+luego desde la terminal de cmd me conecte usando el comando telnet junto a mi direccion ip
+hecho todo esto pude conectarme a la maquina virtual mediante telnet.
