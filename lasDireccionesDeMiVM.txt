@@ -1,0 +1,10 @@
+
+ip privada: 192.168.100.165
+
+ip publica: 197.7.196.46
+
+direccion mac: 08:00:27:28:a9:b3
+
+es diferente al host ? si son diferentes
+
+
